@@ -1,0 +1,55 @@
+*{
+  font-family: 'Kalam', cursive;
+
+  color: #3d2b13;
+
+  /* text-align: center; */
+
+  list-style: none;
+
+  -moz-box-sizing: border-box; /* Firexfox */
+
+  -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+
+  box-sizing: border-box; /* IE */
+}
+
+body{
+
+
+}
+button{
+  color: black;
+}
+form{
+  clear: both;
+  margin-left:55%;
+  margin-top: -10%;
+}
+h1{
+  margin: 9% 0 0 35%;
+  padding: 2%;
+}
+h2{
+  float: left;
+  margin-left: 55%;
+  margin-top: -8%;
+}
+
+h3{
+  margin-top: -2%;
+  margin-left: 40%;
+}
+
+
+.container{
+  margin-top: 15%;
+  height:500px;
+  background: url("notebook.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: top;
+}
+.message{
+  margin-left: 40%;
+}
